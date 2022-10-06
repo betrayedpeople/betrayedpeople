@@ -1,5 +1,8 @@
-# Hi 😄
 
+![header](https://user-images.githubusercontent.com/114066603/194265263-e126bdab-f3a2-4f1e-80bb-478c2c49577c.jpg)
+
+## 　　　　　　　　　　We are a group of three who take the oss class!!
+<br>
 
 
 
@@ -17,10 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 🌱learning
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+## 　　　　　　　　　　　　　　　　　　🌱learning
+　　　　　　　　　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betrayedpeople&show_icons=true&theme=radical)
+<br> <br>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=betrayedpeople&show_icons=true&theme=radical)
