@@ -30,7 +30,7 @@ Here are some ideas to get you started:
  
  __오유석__  <a href="https://github.com/oys7636"><img src="https://img.shields.io/badge/oys7636-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
 
- emptyfriendship
+
  
 <br>
 <br>
