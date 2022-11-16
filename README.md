@@ -1,5 +1,6 @@
 
-![header](https://user-images.githubusercontent.com/114066603/194265263-e126bdab-f3a2-4f1e-80bb-478c2c49577c.jpg)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=QB OSS TEAM 3&fontSize=70)
 
 ##   　　　　　   　　　　We are a group of three who take the oss class!!
 <br>
