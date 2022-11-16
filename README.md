@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 
 
 #    　　　　　　　　Team member github account
-+ 정우빈 : https://github.com/emptyfriendship    
++ __정우빈 : https://github.com/emptyfriendship__    
  
-+ 강승희 : https://github.com/seungheekk    
++ __강승희 : https://github.com/seungheekk__   
  
-+ 오유석 : https://github.com/oys7636    
++ __오유석 : https://github.com/oys7636__    
 
 
 
