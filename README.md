@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##   　　　　　　　　　　　　　　  　　🌱learning
-　　　　　　　　　　　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+
 
 
 #    　　　　　　　　Team member github account
@@ -30,6 +29,9 @@ Here are some ideas to get you started:
 + __오유석 : https://github.com/oys7636__    
 
 
+##   　　　　　　　　　　　　　　  　　🌱learning
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/> 
 
 
 
