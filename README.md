@@ -22,6 +22,17 @@ Here are some ideas to get you started:
 <br>
 
  
+ 
+ ## **:book: Leaning**
+ 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
+ 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
+ 
+ 
+<br>
+<br>
+ 
 
 # :bust_in_silhouette: Team member
  __정우빈__  <a href="https://github.com/emptyfriendship"><img src="https://img.shields.io/badge/emptyfriendship-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>   
@@ -31,15 +42,6 @@ Here are some ideas to get you started:
  __오유석__  <a href="https://github.com/oys7636"><img src="https://img.shields.io/badge/oys7636-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
 
 
- 
-<br>
-<br>
- 
-## **:book: Leaning**
- 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
- 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
 
 
 
