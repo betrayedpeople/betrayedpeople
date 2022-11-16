@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
 
 
 #    　　　　　　　　Team member github account
@@ -30,9 +31,8 @@ Here are some ideas to get you started:
 
 <br>
 
-<div align="center">
  
-## **Leaning**
+## **:book: Leaning**
  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
  
