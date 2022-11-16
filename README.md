@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  
  __강승희 : https://github.com/seungheekk__   
  
- __오유석 : <a href="https://github.com/oys7636"><img src="https://img.shields.io/badge/rdyjun-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
+ __오유석 : <a href="https://github.com/oys7636"><img src="https://img.shields.io/badge/oys7636-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
 
 <br>
 <br>
