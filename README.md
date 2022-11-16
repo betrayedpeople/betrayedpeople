@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  
 
-# Team member
+# :bust_in_silhouette: Team member
  __정우빈__  <a href="https://github.com/emptyfriendship"><img src="https://img.shields.io/badge/emptyfriendship-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>   
  
  __강승희__  <a href="https://github.com/seungheekk"><img src="https://img.shields.io/badge/seungheekk-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
