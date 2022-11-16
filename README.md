@@ -25,11 +25,11 @@ Here are some ideas to get you started:
  
 
 # :bust_in_silhouette: Team member
- __정우빈__ : https://github.com/emptyfriendship
+ __정우빈 : https://github.com/emptyfriendship__
  
- __강승희__ : https://github.com/seungheekk
+ __강승희 : https://github.com/seungheekk__
  
- __오유석__ : https://github.com/oys7636
+ __오유석 : https://github.com/oys7636__
 
  
  <br>
