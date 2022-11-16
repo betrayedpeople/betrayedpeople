@@ -28,10 +28,11 @@ Here are some ideas to get you started:
  
 + __오유석 : https://github.com/oys7636__    
 
+<br>
 
-##   　　　　　　　　　　　　　　  　　🌱learning
+## **:pencil2: Leaning**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
 
 
 
