@@ -19,18 +19,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br>
 
-
+ 
 
 # Team member github account
  __정우빈 : https://github.com/emptyfriendship__    
  
  __강승희 : https://github.com/seungheekk__   
  
- __오유석 : https://github.com/oys7636__    
+ __오유석 : <a href="https://github.com/rdyjun"><img src="https://img.shields.io/badge/rdyjun-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
 
 <br>
-
+<br>
  
 ## **:book: Leaning**
  
