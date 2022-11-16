@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text='QB OSS TEAM 3'&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=OSS&fontSize=70)
 
 ##   　　　　　   　　　　We are a group of three who take the oss class!!
 <br>
