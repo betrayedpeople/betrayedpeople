@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 
 <br>
 
+<div align="center">
 ## **:pencil2: Leaning**
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/>
