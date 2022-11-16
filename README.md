@@ -35,11 +35,11 @@ Here are some ideas to get you started:
  
 
 # :bust_in_silhouette: Team member
- __정우빈__  <a href="https://github.com/emptyfriendship"><img src="https://img.shields.io/badge/emptyfriendship-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>   
+ __정우빈__ : https://github.com/emptyfriendship
  
- __강승희__  <a href="https://github.com/seungheekk"><img src="https://img.shields.io/badge/seungheekk-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
+ __강승희__ : https://github.com/seungheekk
  
- __오유석__  <a href="https://github.com/oys7636"><img src="https://img.shields.io/badge/oys7636-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>
+ __오유석__ : https://github.com/oys7636
 
 
 
