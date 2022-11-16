@@ -1,3 +1,4 @@
+<div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=OSS%20TEAM%203&fontSize=70)
 
@@ -19,7 +20,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 
 
 # Team member github account
