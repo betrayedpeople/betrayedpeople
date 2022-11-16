@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##   　　　　　　　　　　　　　　  　　🌱learning
-　　　　　　　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 
-# Team member github account
+#    　　　　　　　　Team member github account
 + 정우빈 : https://github.com/emptyfriendship    
  
 + 강승희 : https://github.com/seungheekk    
