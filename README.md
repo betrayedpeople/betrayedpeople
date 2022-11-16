@@ -24,10 +24,12 @@ Here are some ideas to get you started:
 　　　　　　　　　　　　　　　　　　　　　　　<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Java-00599C?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 
-
-## 정우빈 : https://github.com/emptyfriendship
-## 강승희 : https://github.com/seungheekk
-## 오유석 : https://github.com/oys7636
+# Team member github account
++ 정우빈 : https://github.com/emptyfriendship    
+ 
++ 강승희 : https://github.com/seungheekk    
+ 
++ 오유석 : https://github.com/oys7636    
 
 
 
