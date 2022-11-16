@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 <div align="center">
 
 
-#    　　　　　　　　Team member github account
-+ __정우빈 : https://github.com/emptyfriendship__    
+# Team member github account
+ __정우빈 : https://github.com/emptyfriendship__    
  
-+ __강승희 : https://github.com/seungheekk__   
+ __강승희 : https://github.com/seungheekk__   
  
-+ __오유석 : https://github.com/oys7636__    
+ __오유석 : https://github.com/oys7636__    
 
 <br>
 
